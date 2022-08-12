@@ -1,0 +1,33 @@
+
+/* header start */
+.header{
+    padding: 20px;
+    line-height: 3;
+}
+/* header end */
+/* common */
+.flex{
+    display: flex;
+}
+.text-center{
+    text-align: center;
+}
+.text-default{
+    font-size: 1em;
+}
+.text-big{
+    font-size: 1.5em;
+}
+.text-small{
+    font-size: 0.7em;
+}
+.m-l-20{
+    margin-left: 20px;
+}
+.p-l-20{
+    padding-left: 20px;
+}
+.display-input{
+    height: 45px;
+    border:1px solid #f24;
+}
